@@ -54,7 +54,7 @@ const Slider = () => {
     };
   }, []);
   const transitionStylesOld ='opacity 0.7s ease-out';
-  const transitionStylesCurrent = 'opacity 0.2s ease-in';
+  const transitionStylesCurrent = 'opacity 0.3s ease-in';
 
   return (
     <div>
